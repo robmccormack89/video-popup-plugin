@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Featured Item
+Plugin Name: Featured Item Section by RMcC
 Plugin URI: #
 Description: Adds featured item section via shortcode featured_content_item
 Version: 1.0.0
