@@ -1,0 +1,6 @@
+.video-container__play svg {
+  width: 80px;
+  height: 80px;
+  fill: transparent;
+  stroke: #fff;
+}

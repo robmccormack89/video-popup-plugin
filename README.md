@@ -1,3 +1,3 @@
-# Featured Item Section
+# Video Popup Section
 
-Adds featured item section via shortcode featured_content_item
+Adds Video Popup section via shortcode featured_content_item
