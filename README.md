@@ -1,3 +1,3 @@
-# Featured Page Blocks
+# Featured Item Section
 
-Adds 3 featured page blocks section via shortcode
+Adds featured item section via shortcode featured_content_item
