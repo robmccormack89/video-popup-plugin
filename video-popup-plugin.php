@@ -2,7 +2,7 @@
 /*
 Plugin Name: Video Popup Section by RMcC
 Plugin URI: #
-Description: Adds Video Popup section via shortcode
+Description: Adds Video Popup section via shortcode [video_popup_secton]
 Version: 1.0.0
 Author: robmccormack89
 Author URI: #

@@ -12,6 +12,7 @@ function video_popup_secton() {
   );
   
   $context = Timber::context();
-  
-  Timber::render('video-section.twig', $context);
+
+  $out = Timber::compile('video-section.twig', $context);
+  return $out;
 }
