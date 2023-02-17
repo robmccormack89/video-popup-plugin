@@ -1,4 +1,4 @@
-# Copyright (C) 2021 video-popup
+# Copyright (C) 2023 video-popup
 # This file is distributed under the same license as the video-popup package.
 msgid ""
 msgstr ""
@@ -14,16 +14,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: views/temp/video-section.php:4
-msgctxt "Video popup section background image url"
-msgid "https://picsum.photos/1920/500?random=1"
+msgctxt "Image link"
+msgid "https://picsum.photos/800/400?random=5"
 msgstr ""
 
-#: views/temp/video-section.php:5
-msgctxt "Video popup section background image alt text"
+#: views/temp/video-section.php:4
+msgctxt "Image alt text"
 msgid "Alt text"
 msgstr ""
 
-#: views/temp/video-section.php:22
-msgctxt "Video popup section iframe embed url"
+#: views/temp/video-section.php:20
+msgctxt "Popup embed link"
 msgid "https://www.youtube.com/embed/Fg2CvKG39Rc"
 msgstr ""
