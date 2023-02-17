@@ -19,6 +19,7 @@ defined('ABSPATH') || exit;
 // define some constants
 if (!defined('VIDEO_POPUP_PATH')) define('VIDEO_POPUP_PATH', plugin_dir_path( __FILE__ ));
 if (!defined('VIDEO_POPUP_URL')) define('VIDEO_POPUP_URL', plugin_dir_url( __FILE__ ));
+if (!defined('VIDEO_POPUP_BASE')) define('VIDEO_POPUP_BASE', dirname(plugin_basename( __FILE__ )));
 
 // require action functions 
 require_once('inc/functions.php');
