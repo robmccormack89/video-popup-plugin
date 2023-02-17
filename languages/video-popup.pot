@@ -20,7 +20,7 @@ msgstr ""
 
 #: views/temp/video-section.php:4
 msgctxt "Image alt text"
-msgid "Alt text"
+msgid "Image by Lorem Picsum"
 msgstr ""
 
 #: views/temp/video-section.php:20
