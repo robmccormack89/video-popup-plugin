@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-08 14:28+0000\n"
-"PO-Revision-Date: 2023-02-18 01:28+0000\n"
+"PO-Revision-Date: 2021-10-08 14:30+0000\n"
 "Last-Translator: \n"
 "Language-Team: English (UK)\n"
 "Language: en_GB\n"
@@ -24,16 +24,16 @@ msgstr ""
 "X-Loco-Version: 2.5.4; wp-5.8.1"
 
 #: views/temp/video-section.php:4
-msgctxt "Image alt text"
-msgid "Image by Lorem Picsum"
+msgctxt "Video popup section background image url"
+msgid "https://picsum.photos/1920/500?random=1"
 msgstr ""
 
-#: views/temp/video-section.php:4
-msgctxt "Image link"
-msgid "https://picsum.photos/800/400?random=5"
+#: views/temp/video-section.php:5
+msgctxt "Video popup section background image alt text"
+msgid "Alt text"
 msgstr ""
 
-#: views/temp/video-section.php:20
-msgctxt "Popup embed link"
+#: views/temp/video-section.php:22
+msgctxt "Video popup section iframe embed url"
 msgid "https://www.youtube.com/embed/Fg2CvKG39Rc"
-msgstr ""
+msgstr "https://www.youtube.com/embed/Fg2CvKG39Rc"
